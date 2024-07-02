@@ -1,0 +1,10 @@
+{
+  "name": "slack-html-archive",
+  "version": "1.0.0",
+  "main": "./gen-html.js",
+  "author": "Dirk Winkler",
+  "license": "MIT",
+  "scripts": {
+    "gen": "node ./gen-html.js"
+  }
+}
